@@ -4,7 +4,7 @@ Pixel Frog Adventures is a 2D Platformer game made in Unity using the c# languag
 
 **This Version of PixelFrogAdventures is 1.0.1.**
 
-![Demo](https://github.com/alexkotov10/PixelFrogAdventures/blob/master/demo.gif)
+![Demo](https://github.com/alexkotov10/PixelFrogAdventures/blob/main/Demo.gif)
 
 Created by Alex Kotov
 
