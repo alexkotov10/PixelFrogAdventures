@@ -4,7 +4,7 @@ A 2D Platformer game using Unity, with many mechanics including enemies, animati
 
 ## Live Demo
 
-![Live Demo](https://alexkotov10.github.io/PixelFrogAdventures/)
+[Live Demo](https://alexkotov10.github.io/PixelFrogAdventures/)
 
 ![Demo](https://github.com/alexkotov10/PixelFrogAdventures/blob/main/Demo.gif)
 
